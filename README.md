@@ -5,7 +5,7 @@
 - :books: I love learning and sharing knowledge!
 
 ## Open Source :bulb:
-I am the main contributor of [Springwolf](https://springwolf.github.io/), an automated documentation libarary for async APIs built with Spring Boot.
+I am the main contributor of [Springwolf](https://springwolf.github.io/), an automated documentation library for async APIs built with Spring Boot.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=springwolf&repo=springwolf-core&theme=dark)](https://github.com/springwolf/springwolf-core)
 
