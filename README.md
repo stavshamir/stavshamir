@@ -1,5 +1,5 @@
 ## Hi there, I'm Stav! :sunny:
-- :star: I am a software developer who is passionate about writing code that helps people. 
+- :star: I am a tech lead and senior software developer who is passionate about writing software that helps people. 
 - :wrench: My main interest is backend development, but I also enjoy playing with frontend and devops from time to time. 
 - :turtle: TDD enthusiast (but not ideologist).
 - :books: I love learning and sharing knowledge!
