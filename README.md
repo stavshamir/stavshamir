@@ -1,11 +1,13 @@
 ## Hi there, I'm Stav! :sunny:
-- :star: I am a tech lead and senior software developer who is passionate about writing software that helps people. 
-- :wrench: My main interest is backend development, but I also enjoy playing with frontend and devops from time to time. 
-- :turtle: TDD enthusiast (but not ideologist).
-- :books: I love learning and sharing knowledge!
+- :star: I'm a passionate tech lead and senior software developer dedicated to crafting software that empowers and delights users.
+- :rocket: My primary focus lies in backend development, but I also enjoy wearing various hats, including DevOps, frontend, and product management.
+- :writing_hand: I'm committed to creating applications and architectures that are not only durable and scalable but also a joy to read and extend.
+- :books: I find fulfillment in mentoring and teaching, valuing positive communication as a cornerstone of effective collaboration.
 
 ## Open Source :bulb:
-Creator of [Springwolf](https://springwolf.github.io/), an automated documentation library for async APIs built with Spring Boot.
+Creator of [Springwolf](https://springwolf.github.io/), an automated documentation library for event-driven applications built with Spring Boot:
+- :clap: Springwolf boasts a thriving community of more than 20 contributors world-wide.
+- :chart_with_upwards_trend: Springwolf has achieved a download count of over half a million.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=springwolf&repo=springwolf-core&theme=dark)](https://github.com/springwolf/springwolf-core)
 
@@ -15,19 +17,3 @@ My posts about [dockerizing flask apps with mysql](https://stavshamir.github.io/
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stavshamir&repo=docker-tutorial&theme=dark)](https://github.com/stavshamir/docker-tutorial)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stavshamir&repo=cython-c-wrapper&theme=dark)](https://github.com/stavshamir/cython-c-wrapper)
-
-
-<!--
-**stavshamir/stavshamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
