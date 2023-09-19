@@ -1,7 +1,7 @@
 ## Hi there, I'm Stav! :sunny:
-- :star: I'm a passionate tech lead and senior software developer dedicated to crafting software that empowers and delights users.
-- :rocket: My primary focus lies in backend development, but I also enjoy wearing various hats, including DevOps, frontend, and product management.
-- :writing_hand: I'm committed to creating applications and architectures that are not only durable and scalable but also a joy to read and extend.
+- :star: I'm a tech lead and senior software developer dedicated to crafting software that empowers and delights users.
+- :rocket: My primary focus is backend development, but I also enjoy wearing various hats, including DevOps, frontend, and product management.
+- :writing_hand: I'm committed to creating applications that are not only durable and scalable but also a joy to read and extend.
 - :books: I find fulfillment in mentoring and teaching, valuing positive communication as a cornerstone of effective collaboration.
 
 ## Open Source :bulb:
