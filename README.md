@@ -6,7 +6,7 @@
 
 ## Open Source :bulb:
 Creator of [Springwolf](https://springwolf.github.io/), an automated documentation library for event-driven applications built with Spring Boot:
-- :clap: Springwolf boasts a thriving community of more than 20 contributors world-wide.
+- :clap: Springwolf boasts a thriving community of more than 25 contributors world-wide.
 - :chart_with_upwards_trend: Springwolf has achieved a download count of over half a million.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=springwolf&repo=springwolf-core&theme=dark)](https://github.com/springwolf/springwolf-core)
