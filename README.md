@@ -1,8 +1,4 @@
-## Hi there, I'm Stav! :sunny:
-- :star: I'm a team lead dedicated to crafting software that empowers and delights users.
-- :rocket: My primary focus is backend development, but I also enjoy wearing various hats, including DevOps, frontend, and product management.
-- :writing_hand: I'm committed to creating applications that are not only durable and scalable but also a joy to read and extend.
-- :books: I find fulfillment in mentoring and teaching, valuing positive communication as a cornerstone of effective collaboration.
+## Hi there, I'm Stav!
 
 ## Open Source :bulb:
 Creator of [Springwolf](https://springwolf.github.io/), an automated documentation library for event-driven applications built with Spring Boot:
